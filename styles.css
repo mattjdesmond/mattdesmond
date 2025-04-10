@@ -1,0 +1,29 @@
+.topbanner {
+    text-align: center;
+    background-color: rgb(53, 157, 124) ;
+}
+
+.mainbody {
+    background-color: rgb(53, 157, 124) ;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hobbies {
+    display: grid;
+}
+.hobbies2 {
+    display: grid;
+}
+
